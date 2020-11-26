@@ -1,3 +1,7 @@
+# Neste projeto são abordados conceitos e melhores práticas para desenvolver aplicações robustas alinhadas a complexidade da lógica de negócios.
+
+Especialista: Alexandre Daccas
+
 ![Aurora Project](https://repository-images.githubusercontent.com/128673011/f6ebdd80-b6da-11ea-94bb-9d141944b257)
 
 # What is Aurora project?
